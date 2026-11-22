@@ -58,7 +58,7 @@
 
 ## Контакты
 
-- Email: YOUR_EMAIL@example.com
+- Email: chlestkovmaksim@gmail.com
 - Telegram: [@YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)
 
 ---
